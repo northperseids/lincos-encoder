@@ -1,0 +1,10 @@
+notes.txt
+output.txt
+signal.py
+lib/
+lib64/
+share/
+SIL*Open*Font*License.txt
+audios/
+*.otf
+*.odt
